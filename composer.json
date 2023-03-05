@@ -1,0 +1,14 @@
+{
+    "name": "johanalavigne/02.psr4et-autoload",
+    "autoload": {
+        "psr-4": {
+            "Johanalavigne\\02Psr4etAutoload\\": "src/"
+        }
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./src"
+        }
+    }
+}
