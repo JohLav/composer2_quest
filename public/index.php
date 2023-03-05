@@ -5,4 +5,4 @@
     use app\Hello;
     
 $hello = new Hello('Hello World!');
-$hello->talk();
+echo $hello->talk();
